@@ -7,3 +7,4 @@ pymoo==0.6.1
 svgpath2mpl==1.0.0
 tqdm==4.67.1
 jax-metal
+pandas
