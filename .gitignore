@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+my_submission.npy
 
 # C extensions
 *.so
