@@ -22,3 +22,10 @@ Then activate the environment and install packages using pip:
 conda activate CP1
 pip install -r requirements_CPU.txt
 ```
+
+how to save changes with git:
+
+1) clear all the outputs (for each notebook)
+2) select files to "stage"
+3) 'git commit -m "some text"' in terminal
+3) 'git push' in terminal
