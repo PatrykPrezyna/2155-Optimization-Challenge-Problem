@@ -30,6 +30,11 @@ how to save changes with git:
 3) 'git commit -m "some text"' in terminal
 3) 'git push' in terminal
 
+how to pull
+1) save 
+2) open terminal
+3) 'git pull'
+
 
 advice from the TA:
 
