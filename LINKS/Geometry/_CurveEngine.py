@@ -64,7 +64,7 @@ class CurveEngine:
                           target_curves: np.ndarray,
                           return_normalized: bool = True,
                           return_distances: bool = True,
-                          return_transforms: bool = False):
+                          return_transforms: bool = True):#return transform true 
         '''
         Aligns a set of curves to a target curve using optimal rotation and translation.
         

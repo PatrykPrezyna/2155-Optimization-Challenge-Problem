@@ -29,3 +29,36 @@ how to save changes with git:
 2) select files to "stage"
 3) 'git commit -m "some text"' in terminal
 3) 'git push' in terminal
+
+
+advice from the TA:
+
+1) better initialisation - there is a function provided somehere in the advanced noetbook
+
+2) gradient based  - there is a function provided somehere in the advanced noetbook
+
+3) solution retention - combine from different optimisation
+
+4) d
+
+grediant decent is very bed method - it is first order - 
+
+
+
+hat the representation make impact on the BFGS SciPy
+
+
+To Dos.
+
+1) Generate nice set of mchenism: run the random reneratior for a long time select the best one and save them into the file,
++ run code to take the mechanism form the file ech time it is run 
+
+2) make the code to work for all curves
+
+3) run the Gradien Decent for material and for distance
+
+Patryk: make it work for all curves
+
+Rebecca: try the pipeline GA -> GD distance -> GD meterial 
+
+Angela: try to use the other gradient decent method the TA mentioned
