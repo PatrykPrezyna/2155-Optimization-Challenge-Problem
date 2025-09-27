@@ -1,9 +1,27 @@
-Change,Overall Score,Computation time
-Initial model,1.44,2min 48s
-Increase num_generations to 500 ,4.68,42min
-Increase population_size to 2000 ,4.40,48min
-Increase num_generations to 1000,4.74,more than 3h
-,,
-only one curve: 2,,
-Initial advanced model 7 nodes ,0.58,37s
-just select better initial population,1.57,
+Change,Overall Score,Computation time,,,
+Initial model,1.44,2min 48s,,,
+Increase num_generations to 500 ,4.68,42min,,,
+Increase population_size to 2000 ,4.4,48min,,,
+Increase num_generations to 1000,4.74,more than 3h,,,
+,,,,,
+only one curve: 2,,,,,
+Initial advanced model 7 nodes ,0.58,37s,,,curve 2
+just select better initial population,1.57,,,,curev 2
+"Select 100 out of 1000 rendom mech, N=7, only GA","Overall Score': 1.6347696635949625,
+ 'Score Breakdown': {'Problem 1': 1.250177220171011,
+  'Problem 2': 1.7373263068814992,
+  'Problem 3': 2.6311398358807025,
+  'Problem 4': 3.1564901848589315,
+  'Problem 5': 0.4134787510643321,
+  'Problem 6': 0.6200056827132983}}",,,,new baseline
+"Select 100 out of 10000 rendom mech, N=7, only GA","{'Overall Score': 2.532823431569277,
+ 'Score Breakdown': {'Problem 1': 2.6861621237836175,
+  'Problem 2': 2.4110520166391183,
+  'Problem 3': 3.216521232899481,
+  'Problem 4': 3.6157599150007798,
+  'Problem 5': 1.8111319505980248,
+  'Problem 6': 1.4563133504946393}}",,,,
+"Select 100 out of 10000 rendom mech, N=8, only GA",,,,,
+"Select 100 out of 10000 rendom mech, N=9, only GA",,,,,
+"Select 100 out of 10000 rendom mech, N=10, only GA",,,,,
+"Select 1000 out of 10000 rendom mech, N=7, only GA",,,,,
