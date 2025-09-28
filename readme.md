@@ -66,4 +66,9 @@ Patryk: make it work for all curves
 
 Rebecca: try the pipeline GA -> GD distance -> GD meterial 
 
+Further Improvements:
++ the nodes are set to 7, should check if other number of nodes work. Then include all the node # combination
++ adjust randomizer to only generate mechanism with initial state within the d/m constraint
++ optimize the GA/GD parameters: step_size, n_steps, popuation, generation
+
 Angela: try to use the other gradient decent method the TA mentioned
