@@ -62,9 +62,8 @@ Patryk: make it work for all curves
 Rebecca: try the pipeline GA -> GD distance -> GD meterial 
 
 Further Improvements:
-+ I start with small-building block focusing on node=7, we can then loop over N(5:20)
++ the nodes are set to 7, should check if other number of nodes work. Then include all the node # combination
 + adjust randomizer to only generate mechanism with initial state within the d/m constraint
-+ optimize the parameters: step_size, n_steps, popuation, generation
-+ intergrate with Patryk's code to loop through target_curves
++ optimize the GA/GD parameters: step_size, n_steps, popuation, generation
 
 Angela: try to use the other gradient decent method the TA mentioned
